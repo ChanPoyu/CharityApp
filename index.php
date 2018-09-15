@@ -9,7 +9,7 @@
   </head>
   <body>
 
-    <a href=""></a>
+    <h1>DDonate</h1>
 
 
     <div class="accessPage">
