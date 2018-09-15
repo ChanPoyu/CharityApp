@@ -1,0 +1,57 @@
+body{
+  margin: 0;
+  height: 100vh;
+  /* background: #123; */
+}
+.accessPage{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+}
+
+#launchProjectBtn{
+  border-radius: 10px;
+  background: #01DFA5;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  font-size: 30px;
+  color: #fff;
+  margin: 0 30px 0 0;
+}
+
+#donateBtn{
+  border-radius: 10px;
+  background: #01DFA5;
+  padding: 10px 61px 10px 61px;
+  text-decoration: none;
+  font-size: 30px;
+  color: #fff;
+  margin: 0 0 0 30px;
+}
+
+input{
+  border: none;
+  border-bottom: 1px #000 solid;
+  outline: none;
+  appearance: none;
+}
+
+#submitProject{
+  display: none;
+  border: 1px #000 solid;
+}
+.displayProjects{
+  display: block;
+  width: 500px;
+  height: 300px;
+  color: #000;
+  background: #01DFA5;
+  margin: auto;
+  padding: 10px;
+}
+a{
+  text-decoration: none;
+
+}
